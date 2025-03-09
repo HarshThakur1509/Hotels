@@ -1,0 +1,6 @@
+{
+    "fields": [
+      { "type": "text", "name": "name", "label": "Full Name", "required": true },
+      { "type": "number", "name": "aadhaar", "label": "Aadhaar Number", "required": true }
+    ]
+  }

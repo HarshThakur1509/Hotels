@@ -1,0 +1,6 @@
+{
+    "fields": [
+      { "type": "email", "name": "email", "label": "Email", "required": true },
+      { "type": "password", "name": "password", "label": "Password", "required": true }
+    ]
+  }

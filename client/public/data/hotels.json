@@ -1,0 +1,20 @@
+{
+    "hotels": [
+      {
+        "id": 1,
+        "name": "Taj Mahal Palace",
+        "location": "Mumbai",
+        "price": 250,
+        "image": "taj-hotel.jpg",
+        "amenities": ["Pool", "Spa", "Free WiFi"]
+      },
+      {
+        "id": 2,
+        "name": "Lake Palace",
+        "location": "Udaipur",
+        "price": 300,
+        "image": "lake-palace.jpg",
+        "amenities": ["Lake View", "Restaurant", "Spa"]
+      }
+    ]
+  }
